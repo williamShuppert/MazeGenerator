@@ -4,4 +4,4 @@ Here is a simple project I did to teach myself a little bit of python. You enter
 
 ## Screenshot
 
-![Gameplay](https://github.com/williamShuppert/MazeGenerator/blob/main/maze.PNG)
+![maze example](https://github.com/williamShuppert/MazeGenerator/blob/main/maze.PNG)
